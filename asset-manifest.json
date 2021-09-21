@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_splitwise_clone/static/css/main.16238caa.chunk.css",
+    "main.js": "/react_splitwise_clone/static/js/main.a711b9f8.chunk.js",
+    "main.js.map": "/react_splitwise_clone/static/js/main.a711b9f8.chunk.js.map",
+    "runtime-main.js": "/react_splitwise_clone/static/js/runtime-main.165d43a2.js",
+    "runtime-main.js.map": "/react_splitwise_clone/static/js/runtime-main.165d43a2.js.map",
+    "static/js/2.dc464d9b.chunk.js": "/react_splitwise_clone/static/js/2.dc464d9b.chunk.js",
+    "static/js/2.dc464d9b.chunk.js.map": "/react_splitwise_clone/static/js/2.dc464d9b.chunk.js.map",
+    "index.html": "/react_splitwise_clone/index.html",
+    "static/css/main.16238caa.chunk.css.map": "/react_splitwise_clone/static/css/main.16238caa.chunk.css.map",
+    "static/js/2.dc464d9b.chunk.js.LICENSE.txt": "/react_splitwise_clone/static/js/2.dc464d9b.chunk.js.LICENSE.txt",
+    "static/media/logo-dark.ef20e673.png": "/react_splitwise_clone/static/media/logo-dark.ef20e673.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.165d43a2.js",
+    "static/js/2.dc464d9b.chunk.js",
+    "static/css/main.16238caa.chunk.css",
+    "static/js/main.a711b9f8.chunk.js"
+  ]
+}
